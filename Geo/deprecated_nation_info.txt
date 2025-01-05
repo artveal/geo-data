@@ -1,0 +1,253 @@
+#iso_code;demonym;federation_abbr;federation_name
+ad;Andorran;FFAS;Football Federation American Samoa
+ae;Emirian;UAEFA;United Arab Emirates Football Association
+af;Afghani;AFF;Afghanistan Football Federation
+ag;Antiguan;ABFA;Antigua and Barbuda Football Association
+al;Albanian;FSHF;Albanian Football Association
+am;Armenian;AFA;Football Federation of Armenia
+ao;Angolan;FAF;Angolan Football Federation
+ar;Argentine;AFA;Argentine Football Association
+at;Austrian;OFB;Austrian Football Association
+au;Australian;FA;Football Australia
+az;Azerbaijani;AFFA;Association of Football Federations of Azerbaijan
+ba;Bosnian;N/FSBiH;Football Association of Bosnia and Herzegovina
+bb;Barbadian;BFA;Barbados Football Association
+bd;Bangladeshi;BFF;Bangladesh Football Federation
+be;Belgian;RBFA;Royal Belgian Football Association
+bf;Burkinabe;FBF;Burkinabé Football Federation
+bg;Bulgarian;BFS;Bulgarian Football Union
+bh;Bahrainian;BFA;Bahrain Football Association
+bi;Burundian;FFB;Football Federation of Burundi
+bj;Beninese;FBF;Benin Football Federation
+bn;Bruneian;FABD;Football Association of Brunei Darussalam
+bo;Bolivian;FBF;Bolivian Football Federation
+br;Brazilian;CBF;Brazilian Football Confederation
+bs;Bahameese;BFA;Bahamas Football Association
+bt;Bhutanese;BFF;Bhutan Football Federation
+bw;Motswana;BFA;Botswana Football Association
+by;Belarusian;BFF;Football Federation of Belarus
+bz;Belizean;FFB;Football Federation of Belize
+ca;Canadian;CSA;Canadian Soccer Association
+cd;Congolese;FECOFA;Congolese Association Football Federation
+cf;Central African;RCA;Central African Football Federation
+cg;Congolese;FECOFOOT;Congolese Football Federation
+ch;Swiss;ASF-SFV;Swiss Football Association
+ci;Ivorian;FIF;Ivorian Football Federation
+cl;Chilean;FFCh;Football Federation of Chile
+cm;Cameroonian;FECAFOOT;Cameroonian Football Federation
+cn;Chinese;CFA;Chinese Football Association
+co;Colombian;CFF;Colombian Football Federation
+cr;Costa Rican;FCRF;Costa Rican Football Federation
+cu;Cuban;AFC;Asociación de Fútbol de Cuba
+cv;Cape Verdean;FCF;Cape Verdean Football Federation
+cy;Cypriot;CFA;Cyprus Football Association
+cz;Czech;FACR;Football Association of the Czech Republic
+de;German;DFB;German Football Association
+dj;Djiboutian;FDF;Djiboutian Football Federation
+dk;Danish;DBU;Danish Football Union
+dm;Dominican;DFA;Dominica Football Association
+do;Dominican;FDF;Dominican Football Federation
+dz;Algerian;AFF;Algerian Football Federation
+ec;Ecuadorean;FEF;Ecuadorian Football Federation
+ee;Estonian;EJL;Estonian Football Association
+eg;Egyptian;EFA;Egyptian Football Association
+er;Eritrean;ENFF;Eritrean National Football Federation
+es;Spanish;RFEF;Royal Spanish Football Federation
+et;Ethiopian;EFF;Ethiopian Football Federation
+fi;Finnish;SPL;Football Association of Finland
+fj;Fijian;FIJI FA;Fiji Football Association
+fr;French;FFF;French Football Federation
+ga;Gabonese;FEGAFOOT;Gabonese Football Federation
+gb;British;;
+gd;Grenadian;GFA;Grenada Football Association
+ge;Georgian;GFF;Georgian Football Federation
+gf;French Guianese;LFG;Ligue de Football de la Guyane
+gh;Ghanaian;GFA;Ghana Football Association
+gm;Gambian;GFF;Gambia Football Federation
+gn;Guinean;FGF;Guinean Football Federation
+gq;Equatorial Guinean;FeGuiFut;Equatoguinean Football Federation
+gr;Greek;HFF;Hellenic Football Federation
+gt;Guatemalan;Fedefut Guate;National Football Federation of Guatemala
+gu;Guamanian;GFA;Guam Football Association
+gw;Guinean;FFGB;Football Federation of Guinea-Bissau
+gy;Guyanese;GFF;Guyana Football Federation
+hk;Hong Konger;HKFA;Football Association of Hong Kong
+hn;Honduran;FENAFUTH;National Autonomous Federation of Football of Honduras
+hr;Croatian;HNS;Croatian Football Federation
+ht;Haitian;FHF;Haitian Football Federation
+hu;Hungarian;HFF;Hungarian Football Federation
+id;Indonesian;PSSI;Football Association of Indonesia
+ie;Irish;FAI;Football Association of Ireland
+il;Israeli;IFA;Israel Football Association
+in;Indian;AIFF;All India Football Federation
+iq;Iraqui;IFA;Iraq Football Association
+ir;Irani;FFIRI;Football Federation Islamic Republic of Iran
+is;Icelander;KSI;Football Association of Iceland
+it;Italian;FIGC;Italian Footbal Federation
+jm;Jamaican;JFF;Jamaica Football Federation
+jo;Jordanian;JFA;Jordan Football Association
+jp;Japanese;JFA;Japan Football Association
+ke;Kenyan;FKF;Football Kenya Federation
+kg;Kyrgyzstani;KFU;Kyrgyz Football Union
+kh;Cambodian;FFC;Football Federation of Cambodia
+ki;I-Kiribati;KIFF;Kiribati Islands Football Association
+km;Comoran;FFC;Comoros Football Federation
+kn;Kittian;SKNFA;St. Kitts and Nevis Football Association
+kp;North Korean;PRKFA;Democratic People's Republic of Korea Football Association
+kr;South Korean;KFA;Korea Football Association
+kw;Kuwaiti;KFA;Kuwait Football Association
+kz;Kazakhstani;KFF;Kazakhstan Football Federation
+la;Laotian;LFF;Lao Football Federation
+lb;Lebanese;LFA;Lebanese Football Association
+lc;Saint Lucian;SLFA;St. Kitts and Nevis Football Association
+li;Liechtensteiner;LFV;Liechtenstein Football Association
+lk;Sri Lankan;FSL;Football Sri Lanka
+lr;Liberian;LFA;Liberia Football Association
+ls;Mosotho;LeFA;Lesotho Football Association
+lt;Lithuanian;LFF;Lithuanian Football Federation
+lu;Luxembourger;FLF;Luxembourg Football Federation
+lv;Latvian;LFF;Latvian Football Federation
+ly;Libyan;LFF;Libyan Football Federation
+ma;Moroccan;FRMF;Royal Moroccan Football Federation
+mc;Monacan;FMF;Monégasque Football Federation
+md;Moldovan;FMF;Moldovan Football Federation
+me;Montenegrin;FSCG;Football Association of Montenegro
+mg;Malagasy;FMF;Malagasy Football Federation
+mk;Macedonian;FFM;Football Federation of Macedonia
+ml;Malian;FMF;Malian Football Federation
+mm;Myanmarese;MFF;Myanmar Football Federation
+mn;Mongolian;MFF;Mongolian Football Federation
+mr;Mauritanian;FFRIM;Football Federation of the Islamic Republic of Mauritania
+mt;Maltese;MFA;Malta Football Association
+mu;Mauritian;MFA;Mauritius Football Association
+mv;Maldivan;FAM;Football Association of Maldives
+mw;Malawian;FAM;Football Association of Malawi
+mx;Mexican;Femexfut;Mexican Football Federatio
+my;Malay;FAM;Football Association of Malaysia
+mz;Mozambican;FMF;Mozambican Football Federation
+na;Namibian;NFA;Namibia Football Association
+ne;Nigerien;FENIFOOT;Nigerien Football Federation
+ng;Nigerian;NFF;Nigeria Football Federation
+ni;Nicaraguan;FENIFUT;Nicaraguan Football Federation
+nl;Dutch;KNVB;Royal Dutch Football Association
+no;Norwegian;NFF;Norwegian Football Federation
+np;Nepalese;ANFA;All Nepal Football Association
+nr;Nauruan;NSF;Nauru Soccer Federation
+nz;New Zealander;NZF;New Zealand Football
+om;Omani;OFA;Oman Football Association
+pa;Panamanian;FEPAFUT;Panamanian Football Federation
+pe;Peruvian;AFFA;Association of Football Federations of Azerbaijan
+pf;French Polynesian;TFF;Tahitian Football Federation
+pg;Papua New Guinean;PNGFA;Papua New Guinea Football Association
+ph;Filipino;FPF;Peruvian Football Federation
+pk;Pakistani;PFF;Pakistan Football Federation
+pl;Polish;PZPN;Polish Football Association
+ps;Palestinian;PFA;Palestinian Football Association
+pt;Portuguese;FPF;Portuguese Football Federation
+pw;Palauan;PFA;Palau Football Association
+py;Paraguayan;APF;Paraguayan Football Association
+qa;Qatari;QFA;Qatar Football Association
+ro;Romanian;FRF;Romanian Football Federation
+rs;Serbian;FSS;Football Association of Serbia
+ru;Russian;RFS;Russian Football Union
+rw;Rwandan;FERWAFA;Rwanda Football Federation
+sa;Saudi Arabian;SAFF;Saudi Football Federation
+sb;Solomon Islander;SIFF;Solomon Islands Football Federation
+sc;Seychellois;SFF;Seychelles Football Federation
+sd;Sudanese;SFA;Sudan Football Association
+se;Swedish;SvFF;Swedish Football Association
+sg;Singaporean;FAS;Football Association of Singapore
+si;Slovenian;NZS;Football Association of Slovenia
+sk;Slovakian;SFZ;Slovak Football Association
+sl;Sierra Leonean;SLFA;Sierra Leone Football Association
+sm;Sanmarinese;FSGC;San Marino Football Federation
+sn;Senegalese;FSF;Senegalese Football Federation
+so;Somali;SFF;Somali Football Federation
+sr;Surinamer;SVB;Surinamese Football Association
+ss;South Sudanese;SSFA;South Sudan Football Association
+st;São Tomean;FSF;São Toméan Football Federation
+sv;Salvadorean;FESFUT;Salvadoran Football Federation
+sy;Syrian;SFA;Syrian Arab Football Association
+sz;Swazi;EFA;Eswatini Football Association
+tc;Turks and Caicos Islander;TCIFA;Turks and Caicos Islands Football Association
+td;Chadian;FTFA;Chadian Football Federation
+tg;Togolese;FTF;Togolese Football Federation
+th;Thai;FA Thailand;Football Association of Thailand
+tj;Tajikistani;TFF;Tajikistan Football Federation
+tl;East Timorese;FFTL;Timor-Leste Football Federation
+tm;Turkmen;TFF;Football Federation of Turkmenistan
+tn;Tunisian;FTF;Tunisian Football Federation
+to;Tongan;TFA;Tonga Football Association
+tr;Turkish;TFF;Turkish Football Federation
+tt;Trinidadian;TTFA;Trinidad and Tobago Football Association
+tv;Tuvaluan;TIFA;Tuvalu Islands Football Association
+tw;Taiwanese;CTFA;Chinese Taipei Football Association
+tz;Tanzanian;TFF;Tanzania Football Federation
+ua;Ukrainian;UAF;Ukrainian Football Associa
+ug;Ugandan;FUFA;Federation of Uganda Football Associations
+us;American;USSF;United States Soccer Federation
+uy;Uruguayan;AUF;Uruguayan Football Association
+uz;Uzbekistani;UFA;Uzbekistan Football Association
+va;Vatican;None;None
+vc;Saint Vincentian;SVGFF;Saint Vincent and the Grenadines Football Federation
+ve;Venezuelan;FVF;Venezuelan Football Federation
+vn;Vietnamese;VFF;Vietnam Football Federation
+vu;Ni-Vanuatu;VFF;Vanuatu Football Federation
+ws;Samoan;FFS;Football Federation Samoa
+xk;Kosovar;FFK;Football Federation of Kosovo
+ye;Yemeni;YFA;Yemen Football Association
+za;South African;SAFA;South African Football Association
+zm;Zambian;FAZ;Football Association of Zambia
+zw;Zimbabwean;ZIFA;Zimbabwe Football Association
+ai;Anguillan;AFA;Anguilla Football Association
+as;Samoan;FFAS;Football Federation American Samoa
+aw;Arubian;ABV;Aruba Football Federation
+ax;Ålandic;AFF;Åland Football Association
+bl;Barthélemois;BFA;Comité Territorial de Football de Saint-Barthélemy
+bm;Bermudan;BFA;Bermuda Football Association
+bq;Bonairean;FFB;Bonaire Football Federation
+bv;Bouvettian;;
+cc;Cocossian ;CIFA;Cocos Islands Football Association
+ck;Cook Islander;CIFA;Cook Islands Football Association
+cw;Curaçaoan;FFK;Curaçao Football Federation
+cx;Christmas Islander;;
+fk;Falklander;FIFL;Falkland Islands Football League
+fm;Micronesian;FSMFA;Federated States of Micronesia Football Association
+fo;Faroese;FSF;Faroe Islands Football Association
+gb-eng;English;FA;The Football Association
+gb-nir;Northern Irish;IFA;Irish Football Association
+gb-sct;Scotish;SFA;Scottish Football Association
+gb-wls;Welsh;FAW;Football Association of Wales
+gg;Guernseyman;GFA;Guernsey Football Association
+gi;Gibraltarian;GFA;Gibraltar Football Association
+gl;Greenlander;KAK;Football Association of Greenland
+gp;Guadeloupean;LGF;Guadeloupean League of Football
+gs;South Sandwich Islander;;
+hm;Heard Islander;;
+im;Manx;IOMFA;Isle of Man Football Association
+io;British;;
+je;Jerseyman;JFA; Jersey Football Association
+ky;Caymanian;CIFA;Cayman Islands Football Association
+mf;Saint Martiner;LFSM;Ligue de football de Saint-Martin
+mh;Marshallese;MISF;Marshall Islands Soccer Federation
+mo;Macanese;MFA;Macau Football Association
+mp;Northern Mariana Islander;NMIFA;Northern Mariana Islands Football Association
+mq;Martinican;LFM;Ligue de football de la Martinique
+ms;Monserratian;MFA;Montserrat Football Association
+nc;New Caledonian;FCF;New Caledonian Football Federation
+nf;Norfolk Islander;;
+nu;Niuean;NFA;Niue Football Association
+pm;Pierrian;FFSPM;Fédération de Football de Saint-Pierre et Miquelon
+pn;Pitcairnese;;
+pr;Puerto Rican;FPF;Puerto Rican Football Federation
+re;Réunionese;LRF;Réunionese Football League
+sh;Saint Helenian;SHFA;Saint Helena Football Association
+sj;Svalbarense;;
+sx;Saint Martiner;SXMFF;Sint Maarten Football Federation
+tf;;;
+tk;Tokelauan;;
+um;American;;
+vg;Virgin Islander;BVIFA;British Virgin Islands Football Associati
+vi;Virgin Islander;USVISA;U.S. Virgin Islands Soccer Association
+wf;Wallisian;WFSF;Wallis and Futuna Soccer Federation
+yt;Mahoran;LFM;Ligue de Football de Mayotte
