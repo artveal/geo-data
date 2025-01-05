@@ -1,0 +1,7 @@
+#abbr;name;demonym;confederation_name;confederation_abbr
+EUR;Europe;European;Union of European Football Associations;UEFA
+SAM;South America;South American;Confederación Sudamericana de Fútbol;CONMEBOL
+AFR;Africa;African;Confederation of African Football;CAF
+ASI;Asia;Asian;Asian Football Confederation;AFC
+NAM;North America;North American;Confederation of North, Central American and Caribbean Association Football;CONCACAF
+OCE;Oceania;Oceanic;Oceania Football Confederation;OFC
